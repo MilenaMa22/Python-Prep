@@ -8,7 +8,7 @@
 # In[7]:
 
 
-a = 12
+a = 13
 print(a)
 
 
@@ -74,7 +74,7 @@ var2 = True
 # In[5]:
 
 
-print('La variable 1 es de tipo ', type(var1), ' y la variable 2 es de tipo ', type(var2))
+print('La variable 1 es de tipo ', str(type(var1)), ' y la variable 2 es de tipo ', str(type(var2)))
 
 
 # 10) Asignar a una variable, la suma de un número entero y otro decimal
